@@ -45,9 +45,6 @@ p, ol, ul, td {
     margin: 33px;
 }
 
-p {
-    display: block;
-   
 
 strong {
     font-weight: bold;
@@ -65,4 +62,8 @@ div {
 div.field,
 div.actions {
     margin-bottom: 10px
+}
+
+.notice {
+    color: green;
 }
